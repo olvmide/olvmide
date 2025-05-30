@@ -26,24 +26,45 @@ With a foundation in threat detection, SIEM monitoring, and automation, I am loo
 
 ## 🧰 Tools
 
-### 🔗 Network
+### 🕸️ Network & Traffic Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-79589F?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zabbix-CF2238?&style=for-the-badge&logo=Zabbix&logoColor=white" />
 </div>
 
-### 🖥️ Endpoint
+### 🖥️ Endpoint & Forensics
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSI_Linux-006699?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### 📊 SIEM
+### 🔍 SIEM & Threat Detection
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### ⚙️ Automation & DevSecOps
+<div>
+    <img src="https://img.shields.io/badge/-Shuffle_SOAR-FF6B35?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-000000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-0095D5?&style=for-the-badge&logo=OWASP&logoColor=white" />
+</div>
+
+### 🛠️ Others
+<div>
+    <img src="https://img.shields.io/badge/-Power_Platform-742774?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UiPath-FF6C37?&style=for-the-badge&logo=UiPath&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
 </div>
 
 ---
