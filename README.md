@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Gbolade Amusan
 <a href="https://linkedin.com/in/amusan-gbolade"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a cybersecurity graduate and former process automation specialist, with a strong focus on securing systems, analyzing threats, and automating defensive actions. I recently completed a postgraduate certificate in Cybersecurity and Computer Forensics at Lambton College.
+I am a cybersecurity professional with 6 years of cross-functional experience in Information Security, Process Automation, DevSecOps, and Regulatory Compliance within complex enterprise environments. I specialize in recommending and implementing security best practices and solid security principles to uphold the Confidentiality, Integrity, and Availability (CIA) of information and assets across organizations. I am technically hands-on in securing multi-cloud environments by integrating advanced security tools and frameworks to proactively prevent breaches, harden infrastructure, and ensure regulatory compliance. With a strong focus on securing systems, analyzing threats, and orchestrating timely incident response.
 
 ---
 
 ## 🎯 Objective
 
-With a foundation in threat detection, SIEM monitoring, and automation, I am looking to transition into a Tier 1 Security Operations Center (SOC) Analyst role, where I can contribute to identifying and mitigating threats in real time.
+With a foundation in threat detection, SIEM monitoring, and automation, I’m pursuing a SOC Information Security Analyst or DevSecOps role where I can apply my skills to detect threats, streamline security operations, and embed security into development pipelines.
 
 ---
 
