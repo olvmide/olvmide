@@ -16,7 +16,7 @@ With a foundation in threat detection, SIEM monitoring, and automation, I am loo
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [Detection Lab](https://github.com/yourusername/detection-lab) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/yourusername/detection-lab) |
+| Network Traffic Monitoring and Attack Detection | [Network Monitoring with Zabbix](https://github.com/yourusername/detection-lab) |
 | Security Automation with Shuffle SOAR         | [SOC Automation Project](https://github.com/yourusername/soc-automation) |
 | Incident Response Planning and Execution      | [SOC Automation Project](https://github.com/yourusername/soc-automation) |
 | Case Management with TheHive                  | [SOC Automation Project](https://github.com/yourusername/soc-automation) |
@@ -73,7 +73,7 @@ With a foundation in threat detection, SIEM monitoring, and automation, I am loo
 
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
+   // <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?&style=for-the-badge&logo=Google&logoColor=white" />//
     <img src="https://img.shields.io/badge/-ISC2_CC_(Certified_in_Cybersecurity)-00ADEF?&style=for-the-badge&logo=ISC2&logoColor=white" />
     <img src="https://img.shields.io/badge/-CSI_Linux_Certified_Investigator_(CSIL--CI)-6D6D6D?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-UiPath_RPA_Advanced_Developer-F48C06?&style=for-the-badge&logo=UiPath&logoColor=white" />
